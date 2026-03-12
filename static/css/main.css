@@ -1,0 +1,16 @@
+/* HEADER */
+header{
+
+position: sticky;
+top:0;
+z-index:1000 ;
+background: #fff;
+-webkit-box-shadow : 0 5xp 25xp rgba(0,0,0,0.15);
+    box-shadow : 0 5xp 25xp rgba(0,0,0,0.15);
+
+}
+
+.header__img {
+   height: 55px; 
+   width: 55px;
+}
